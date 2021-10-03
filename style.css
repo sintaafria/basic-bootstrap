@@ -1,0 +1,60 @@
+#navbar {
+	background-color: #040e27;
+	border-bottom: 2px solid #fff;
+}
+
+#nav-item:hover {
+	background-color: #fff;
+	color: #040e27;
+}
+
+#button {
+	text-align: center;
+}
+
+a {
+	text-align: center;
+}
+
+body {
+	font-family: "Roboto Condensed", sans-serif;
+	color: #040e27;
+}
+
+header {
+	font-family: "DM Sans", sans-serif;
+	position: fixed;
+	width: 100%;
+}
+
+.top-wrapper {
+	padding-top: 65px;
+	background-color: #040e27;
+	color: #fff;
+}
+
+.top-wrapper h2 {
+	letter-spacing: 5px;
+	font-weight: bold;
+}
+
+img {
+	border-radius: 50%;
+	width: 250px;
+	height: auto;
+	padding: 10px;
+	border: 2px solid #fff;
+}
+
+.about p{
+	letter-spacing: 2px;
+}
+
+.progress-bar {
+	background-color: #040e27;
+}
+
+footer {
+	color: #fff;
+	background-color: #040e27;
+}
